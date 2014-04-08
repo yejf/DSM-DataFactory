@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<class name="com.df.entity.Book" item="10">
-	<property name="name" generator="commonstring" value="刀剑笑,书剑恩仇录,生死疲劳,蛙,Think in Java,Hibernate In Action"/>
-	<property name="author" generator="commonstring" value="金庸,古龙,冰心,老舍,莫言" unique="false"/>
-	<property name="price" generator="double" min="11.5" max="278.5"/>
-	<property name="publish_date" generator="date" min="2008-01-01" max="2014-03-01"/>
-</class>

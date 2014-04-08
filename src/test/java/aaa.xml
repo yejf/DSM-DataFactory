@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<data-factory xmlns="http://www.company.org/datafactory"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.company.org/datafactory ../../../target/classes/META-INF/datafactory.xsd ">
-	<load file="com/df/entity/test.student.xml" />
-	<load file="com/df/entity/test.bbb.xml"/>
-</data-factory>
