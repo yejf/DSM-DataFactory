@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class name="com.df.entity.Student" item="10">
+	<property name="name" generator="englishname" prefix="true" suffix="true"/>
+	<property name="age" generator="integer" min="15" max="28"/>
+	<property name="hobby" generator="array" value="看书,阅读,网游"/>
+	<property name="birth" generator="date"/>
+	<property name="gender" generator="enum"  type="com.df.generate.Gender"/>
+</class>
